@@ -1,0 +1,49 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch ResolucaoDoSistema",
+      "request": "launch",
+      "mainClass": "ResolucaoDoSistema",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "Launch IdiomaDoSistema",
+      "request": "launch",
+      "mainClass": "IdiomaDoSistema",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "Launch HoraDoSistema",
+      "request": "launch",
+      "mainClass": "HoraDoSistema",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "Launch Teste",
+      "request": "launch",
+      "mainClass": "Teste",
+      "projectName": "java_3e0290da"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_3e0290da"
+    }
+  ]
+}
